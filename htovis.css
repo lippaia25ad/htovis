@@ -18,6 +18,12 @@ h2{
   text-transform: uppercase;
 }
 
+bevezeto{
+  font-size: 120%;
+  font-style: italic;
+  font-width: 600px;
+}
+
 p{
   text-align:justify;
 }
