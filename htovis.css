@@ -7,6 +7,15 @@ h1{
   text-align:center;
   font-size: 222%;
   margin: 0px 0px 10px;
+  color: #eb7100;
+  text-transform: uppercase;
+}
+
+h2{
+  font-size: 150%;
+  margin: 20px 0px 10px;
+  color: #eb7100;
+  text-transform: uppercase;
 }
 
 p{
